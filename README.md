@@ -59,7 +59,7 @@ The data are organized and updated monthly. This means that I will need to downl
 The acronym R.O.C.C.C. summarize the process to identify the good (or bad) quality of a dataset.
 In fact, R.O.C.C.C. stands for Reliable, Original, Comprehensive, Current, Cited.
 In this specific case: 
-- data are sufficiently **Reliable** because they are mostly accurate; there is a certain number of null values, so is not complete.
+- data are sufficiently **reliable** because they are mostly accurate; there is a certain number of null values, so is not complete.
 - as first-party data, they are **originals** by definition. 
 - The datasets are enough **comprehensive**; it is possible to answer the questions asked quite exhaustively. The comprehensiveness could have been better with at least anonyms identifiers of the riders, in order to understand if and how many bike trips are made by the same users.
 - Data are absolutely **current** for this kind of analysis, because are provided in the past 12 months.
